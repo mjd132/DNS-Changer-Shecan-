@@ -96,11 +96,5 @@ app = App()  # create CTk window like you do with the Tk window
 app.geometry("400x600")
 app.title("DNS Changer")
 app.resizable(True, False)
-# app.show_cmd(txt="salam")
-
-
-# textbox.place(relx=0, rely=0.05)
-# textbox.configure(state="disabled")
-
 
 app.mainloop()
